@@ -35,8 +35,8 @@
   "description": "+1000 монет",
   "price": 150,
   "iconUrl": "https://.../boost.png",
-  "startTime": 1735689600000,
-  "endTime": 1735776000000,
+"startTime": 0,
+"endTime": 9999999999999
   "maxPurchases": 5
 }
 ]
