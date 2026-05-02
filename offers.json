@@ -18,5 +18,15 @@
     "startTime": null,
     "endTime": null,
     "maxPurchases": 3
-  }
+  },
+  {
+  "id": "limited_boost",
+  "title": "Временный буст",
+  "description": "+1000 монет",
+  "price": 150,
+  "iconUrl": "https://.../boost.png",
+  "startTime": 1735689600000,
+  "endTime": 1735776000000,
+  "maxPurchases": 5
+}
 ]
