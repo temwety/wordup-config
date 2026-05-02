@@ -1,8 +1,8 @@
 [
   {
     "id": "starter",
-    "title": "Стартовый набор",
-    "description": "+500 монет",
+    "title": "неСтартовый набор",
+    "description": "+500АВ монет",
     "price": 100,
     "iconUrl": "https://i.imgur.com/coin.png",
     "startTime": null,
