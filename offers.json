@@ -20,6 +20,16 @@
     "maxPurchases": 3
   },
   {
+    "id": "premium2",
+    "title": "Премиум",
+    "description": "+2000 монет",
+    "price": 300,
+    "iconUrl": "https://i.imgur.com/coin.png",
+    "startTime": null,
+    "endTime": null,
+    "maxPurchases": 35
+  },
+  {
   "id": "limited_boost",
   "title": "Временный буст",
   "description": "+1000 монет",
