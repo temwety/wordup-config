@@ -1,14 +1,17 @@
 [
-  {
-    "id": "starter",
-    "title": "неСтартовый набор",
-    "description": "+500АВ монет",
-    "price": 100,
-    "iconUrl": "https://i.imgur.com/coin.png",
-    "startTime": null,
-    "endTime": null,
-    "maxPurchases": 5
-  },
+{
+  "id": "x2_boost",
+  "title": "Буст x2",
+  "description": "Удвоение монет на 30 минут",
+  "price": 200,
+  "iconUrl": "https://i.imgur.com/coin.png",
+  "startTime": 0,
+  "endTime": 9999999999999,
+  "maxPurchases": 3,
+  "type": "multiplier",
+  "value": 2,
+  "duration": 1800000
+},
   {
     "id": "premium",
     "title": "Премиум",
