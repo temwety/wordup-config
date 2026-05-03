@@ -1,13 +1,13 @@
 [
   {
-    "id": "x2_boost",
+    "id": "x2_boost2",
     "title": "Буст x2",
     "description": "Удвоение монет на 30 минут",
     "price": 200,
     "iconUrl": "https://i.imgur.com/coin.png",
     "startTime": 0,
     "endTime": 9999999999999,
-    "maxPurchases": 3,
+    "maxPurchases": 300,
     "type": "multiplier",
     "value": 2,
     "duration": 1800000
