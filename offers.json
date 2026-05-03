@@ -1,17 +1,17 @@
 [
-{
-  "id": "x2_boost",
-  "title": "Буст x2",
-  "description": "Удвоение монет на 30 минут",
-  "price": 200,
-  "iconUrl": "https://i.imgur.com/coin.png",
-  "startTime": 0,
-  "endTime": 9999999999999,
-  "maxPurchases": 3,
-  "type": "multiplier",
-  "value": 2,
-  "duration": 1800000
-},
+  {
+    "id": "x2_boost",
+    "title": "Буст x2",
+    "description": "Удвоение монет на 30 минут",
+    "price": 200,
+    "iconUrl": "https://i.imgur.com/coin.png",
+    "startTime": 0,
+    "endTime": 9999999999999,
+    "maxPurchases": 3,
+    "type": "multiplier",
+    "value": 2,
+    "duration": 1800000
+  },
   {
     "id": "premium",
     "title": "Премиум",
@@ -20,7 +20,10 @@
     "iconUrl": "https://i.imgur.com/coin.png",
     "startTime": null,
     "endTime": null,
-    "maxPurchases": 3
+    "maxPurchases": 3,
+    "type": "coins",
+    "value": 2000,
+    "duration": null
   },
   {
     "id": "premium2",
@@ -30,7 +33,10 @@
     "iconUrl": "https://i.imgur.com/coin.png",
     "startTime": null,
     "endTime": null,
-    "maxPurchases": 35
+    "maxPurchases": 35,
+    "type": "coins",
+    "value": 2000,
+    "duration": null
   },
   {
     "id": "limited_boost",
@@ -40,6 +46,9 @@
     "iconUrl": "https://i.imgur.com/coin.png",
     "startTime": 0,
     "endTime": 9999999999999,
-    "maxPurchases": 5
+    "maxPurchases": 5,
+    "type": "coins",
+    "value": 1000,
+    "duration": null
   }
 ]
