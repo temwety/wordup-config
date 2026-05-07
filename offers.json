@@ -1,8 +1,8 @@
 [
   {
-    "id": "boost_x2",
-    "title": "Буст x2",
-    "description": "Удваивает получаемые монеты на время действия. Подходит для ежедневной игры и быстрого прогресса.",
+    "id": "purple_rush",
+    "title": "Фиолетовый Рывок",
+    "description": "Редкий фиолетовый буст для тех, кто хочет быстро ворваться в топ. Удваивает все получаемые монеты на время действия.",
     "price": 200,
     "iconUrl": "https://i.imgur.com/iPz0mQu.png",
     "startTime": 0,
@@ -13,29 +13,29 @@
     "duration": 3600000
   },
   {
-    "id": "boost_x3",
-    "title": "Буст x3",
-    "description": "Утроение монет на ограниченное время. Дает заметный прирост за короткие игровые сессии.",
-    "price": 400,
+    "id": "green_streak",
+    "title": "Зелёная Серия",
+    "description": "Спокойный, но стабильный бонус для ежедневной игры. Зелёная монета активирует x2 ко всем заработанным монетам.",
+    "price": 200,
     "iconUrl": "https://i.imgur.com/quSUJJn.png",
     "startTime": 0,
     "endTime": null,
-    "maxPurchases": 2,
+    "maxPurchases": 3,
     "type": "multiplier",
-    "value": 3,
-    "duration": 1800000
+    "value": 2,
+    "duration": 3600000
   },
   {
-    "id": "boost_x5",
-    "title": "Буст x52",
-    "description": "Максимальный буст для быстрого заработка. Подходит для интенсивной игры.",
-    "price": 800,
+    "id": "red_fever",
+    "title": "Красная Лихорадка",
+    "description": "Агрессивный буст для быстрых игровых сессий. Красная монета удваивает награды и помогает моментально нафармить больше коинов.",
+    "price": 200,
     "iconUrl": "https://i.imgur.com/fAfizN6.png",
     "startTime": 0,
     "endTime": null,
-    "maxPurchases": 1,
+    "maxPurchases": 3,
     "type": "multiplier",
-    "value": 5,
-    "duration": 900000
+    "value": 2,
+    "duration": 3600000
   }
 ]
