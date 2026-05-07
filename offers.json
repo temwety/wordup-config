@@ -23,7 +23,7 @@
     "maxPurchases": 3,
     "type": "multiplier",
     "value": 2,
-    "duration": 600000
+    "duration": 1800000
   },
   {
     "id": "red_fever",
@@ -36,6 +36,6 @@
     "maxPurchases": 3,
     "type": "multiplier",
     "value": 2,
-    "duration": 1800000
+    "duration": 600000
   }
 ]
